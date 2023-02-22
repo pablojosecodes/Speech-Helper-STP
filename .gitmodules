@@ -1,0 +1,6 @@
+[submodule "hermes"]
+	path = hermes
+	url = git@github.com:Speaking-Help/hermes.git
+[submodule "aphrodite"]
+	path = aphrodite
+	url = git@github.com:Speaking-Help/aphrodite.git
